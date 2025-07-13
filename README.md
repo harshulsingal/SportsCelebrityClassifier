@@ -40,7 +40,4 @@ This project focuses on identifying sports celebrities from images using classic
 4. **Prediction**  
    Given a new image, the model classifies it into one of the known sports celebrities.
 
----
-
-## 📁 Folder Structure
 
